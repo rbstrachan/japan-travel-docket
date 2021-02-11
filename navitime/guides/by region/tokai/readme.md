@@ -1,4 +1,4 @@
-# `203` JTNT Guides > by Region > Tokai
+# `203` by Region > Tokai
 
 ## `203.1` [Gifu](gifu)
 `203.101` [](gifu/)
