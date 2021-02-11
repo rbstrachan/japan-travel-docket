@@ -1,4 +1,4 @@
-# `2` JTNT Guides > by Region
+# `2` by Region
 
 `201` [Hokkaido & Touhoku](hokkaido%20and%20touhoku)
 `202` [Kanto](kanto)
