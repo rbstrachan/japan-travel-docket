@@ -1,4 +1,4 @@
-# `201` JTNT Guides > by Region > Hokkaido & Touhoku
+# `201` by Region > Hokkaido & Touhoku
 
 ## `201.1` [Hokkaido](hokkaido)
 `201.101` [](hokkaido/)
