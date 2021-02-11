@@ -8,7 +8,7 @@
 
 # Guides
 ## [Guides by Interest](japantravel.navitime.com/en/area/jp/interest/all)
-- Accomodations
+- Accomodation
 	- Resorts
 	- Capsule Hotels
 	- Guest Houses
@@ -66,37 +66,7 @@
 	- Other
 
 ## [Guides by Region](http://japantravel.navitime.com)
-### Hokkaido / Touhoku
-- Hokkaido
-- Aomori
-- Iwate
-- Miyagi
-- Akita
-- Yamagata
-- Fukushima
-
-### Kanto
-- Ibaraki
-- Tochigi
-- Gunma
-- Saitama
-- Chiba
-- Tokyo
-- Kanagawa
-
-### Tokai
-- Gifu
-- Shizuoka
-- Aichi
-- Mie
-
-### Shikoku
-- Tokushima
-- Kagawa
-- Ehime
-- Kochi
-
-### Kyuushuu / Okinawa
+### Kyushu / Okinawa
 - Fukuoka
 - Saga
 - Nagasaki
@@ -128,17 +98,3 @@
 - Fukui
 - Yamanashi
 - Nagano
-
-## [Guides by Month](https://japantravel.navitime.com/en/area/jp/monthly/[month])
-- January
-- February
-- March
-- April
-- May
-- June
-- July
-- August
-- September
-- October
-- November
-- December
