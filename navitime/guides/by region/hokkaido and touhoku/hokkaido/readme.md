@@ -1,1 +1,1 @@
-# `201.1` JTNT Guides > by Region > Hokkaido & Touhoku > Hokkaido
+# `201.1` by Region > Hokkaido & Touhoku > Hokkaido
