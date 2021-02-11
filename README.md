@@ -16,7 +16,7 @@ A docket with travel information, guides and itineraries for Japan.
 `111` Travelling
 
 ## `2` [by Region](navitime/guides/by%20region)
-`201` [Hokkaido & Touhoku]()
+`201` [Hokkaido & Touhoku](navitime/guides/by%region/hokkaido%20and%20touhoku)
 `202` [Kanto]()
 `203` [Tokai]()
 `204` [Shikoku]()
