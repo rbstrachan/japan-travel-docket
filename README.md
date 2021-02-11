@@ -26,7 +26,7 @@ A docket with travel information, guides and itineraries for Japan.
 `[2.8]` [Koshinsetsu & Hokuriku]()
 
 ## `[3]` [by Month](navitime/guides/by%20month)
-`[3.1]` [January]()
+`[3.1]` [January](navitime/guides/by%20month/january)
 `[3.2]` [February]()
 `[3.3]` [March]()
 `[3.4]` [April]()
