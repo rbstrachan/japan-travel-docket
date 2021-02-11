@@ -1,3 +1,3 @@
-# `1` JTNT Guides > by Interest
+# `1` by Interest
 
 `101` [Activities](activities)
