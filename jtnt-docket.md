@@ -1,19 +1,17 @@
 # Japan Travel Docket ([JTNT](https://japantravel.navitime.com))
-# Areas of Research
+
+# Areas to Research Further
 - Tourist Attractions
 	- Cherry Blossom Viewing
 	- Autumn Foliage Forecast
 - Hospitals
 
 # Guides
-## Guides by Interest ([JTNT](japantravel.navitime.com/en/area/jp/interest/all))
+## [Guides by Interest](japantravel.navitime.com/en/area/jp/interest/all)
 - Activities
 	- Amusement Parks
+		- New in 2021
 	- Outdoor Activities
-		- Diving
-		- Firework Festivals
-		- Hiking
-		- Skiing & Snowboarding
 	- Indoor Activities
 	- Sports
 	- Cycling
@@ -32,8 +30,6 @@
 	- Traditional Crafts
 	- Other
 - Events
-	- News
-	- Newly Open
 	- 2020 Tokyo Olympics
 	- Events
 	- Festivals
@@ -77,21 +73,7 @@
 	- Historical Landscapes
 	- Other
 
-## Guides by Month ([JTNT](https://japantravel.navitime.com/en/area/jp/monthly/[month])
-- January
-- February
-- March
-- April
-- May
-- June
-- July
-- August
-- September
-- October
-- November
-- December
-
-## Guides by Region ([JTNT](http://japantravel.navitime.com))
+## [Guides by Region](http://japantravel.navitime.com)
 ### Hokkaido / Touhoku
 - Hokkaido
 - Aomori
@@ -154,3 +136,17 @@
 - Fukui
 - Yamanashi
 - Nagano
+
+## [Guides by Month](https://japantravel.navitime.com/en/area/jp/monthly/[month])
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
