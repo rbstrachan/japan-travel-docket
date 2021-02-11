@@ -4,7 +4,7 @@ A docket with travel information, guides and itineraries for Japan.
 # [Guides](https://www.japantravel.navitime.com/en)
 ## `1` [by Interest](guides/by%20interest)
 `101` [Activities](guides/by%20interest/activities)
-`102` Accomodations
+`102` Accomodation
 `103` Art & Culture
 `104` Events
 `105` Food & Drink
