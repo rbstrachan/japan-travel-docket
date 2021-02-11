@@ -57,20 +57,6 @@
 	- Historical Landscapes
 	- Other
 
-## Guides by Month ([JTNT](https://japantravel.navitime.com/en/area/jp/monthly/[month])
-- January
-- February
-- March
-- April
-- May
-- June
-- July
-- August
-- September
-- October
-- November
-- December
-
 ## Guides by Region ([JTNT](japantravel.navitime.com) & [JT](japan.travel))
 ### Hokkaido / Touhoku
 - Hokkaido
