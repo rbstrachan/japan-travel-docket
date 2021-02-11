@@ -57,31 +57,7 @@
 	- Historical Landscapes
 	- Other
 
-## Guides by Region ([JTNT](japantravel.navitime.com) & [JT](japan.travel))
-### Hokkaido / Touhoku
-- Hokkaido
-- Aomori
-- Iwate
-- Miyagi
-- Akita
-- Yamagata
-- Fukushima
-
-### Kanto
-- Ibaraki
-- Tochigi
-- Gunma
-- Saitama
-- Chiba
-- Tokyo
-- Kanagawa
-
-### Tokai
-- Gifu
-- Shizuoka
-- Aichi
-- Mie
-
+## Guides by Region
 ### Shikoku
 - Tokushima
 - Kagawa
