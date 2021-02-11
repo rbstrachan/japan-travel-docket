@@ -8,14 +8,6 @@
 
 # Guides
 ## [Guides by Interest](japantravel.navitime.com/en/area/jp/interest/all)
-- Activities
-	- Amusement Parks
-		- New in 2021
-	- Outdoor Activities
-	- Indoor Activities
-	- Sports
-	- Cycling
-	- Other
 - Accomodations
 	- Resorts
 	- Capsule Hotels
