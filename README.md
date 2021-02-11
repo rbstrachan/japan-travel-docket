@@ -2,8 +2,8 @@
 A docket with travel information, guides and itineraries for Japan.
 
 # [Guides](https://www.japantravel.navitime.com/en)
-## `1` [by Interest](navitime/guides/by%20interest)
-`101` [Activities](navitime/guides/by%20interest/activities)
+## `1` [by Interest](guides/by%20interest)
+`101` [Activities](guides/by%20interest/activities)
 `102` Accomodations
 `103` Art & Culture
 `104` Events
@@ -15,29 +15,29 @@ A docket with travel information, guides and itineraries for Japan.
 `110` Travel Tips
 `111` Travelling
 
-## `2` [by Region](navitime/guides/by%20region)
-`201` [Hokkaido & Touhoku](navitime/guides/by%20region/hokkaido%20and%20touhoku)
-`202` [Kanto](navitime/guides/by%20region/kanto)
-`203` [Tokai](navitime/guides/by%20region/tokai)
-`204` [Shikoku](navitime/guides/by%20region/shikoku)
-`205` [Kyushu & Okinawa](kyushu%20and%20okinawa)
-`206` [Chugoku](navitime/guides/by%20region/chugoku)
-`207` [Kinki](navitime/guides/by%20region/kinki)
-`208` [Koshinsetsu & Hokuriku](navitime/guides/by%20region/koshinsetsu%20and%20hokuriku)
+## `2` [by Region](guides/by%20region)
+`201` [Hokkaido & Touhoku](guides/by%20region/hokkaido%20and%20touhoku)
+`202` [Kanto](guides/by%20region/kanto)
+`203` [Tokai](guides/by%20region/tokai)
+`204` [Shikoku](guides/by%20region/shikoku)
+`205` [Kyushu & Okinawa](guides/kyushu%20and%20okinawa)
+`206` [Chugoku](guides/by%20region/chugoku)
+`207` [Kinki](guides/by%20region/kinki)
+`208` [Koshinsetsu & Hokuriku](guides/by%20region/koshinsetsu%20and%20hokuriku)
 
-## `3` [by Month](navitime/guides/by%20month)
-`301` [January](navitime/guides/by%20month/january)
-`302` [February](navitime/guides/by%20month/february)
-`303` [March](navitime/guides/by%20month/march)
-`304` [April](navitime/guides/by%20month/april)
-`305` [May](navitime/guides/by%20month/may)
-`306` [June](navitime/guides/by%20month/june)
-`307` [July](navitime/guides/by%20month/july)
-`308` [August](navitime/guides/by%20month/august)
-`309` [September](navitime/guides/by%20month/september)
-`310` [October](navitime/guides/by%20month/october)
-`311` [November](navitime/guides/by%20month/november)
-`312` [December](navitime/guides/by%20month/december)
+## `3` [by Month](guides/by%20month)
+`301` [January](guides/by%20month/january)
+`302` [February](guides/by%20month/february)
+`303` [March](guides/by%20month/march)
+`304` [April](guides/by%20month/april)
+`305` [May](guides/by%20month/may)
+`306` [June](guides/by%20month/june)
+`307` [July](guides/by%20month/july)
+`308` [August](guides/by%20month/august)
+`309` [September](guides/by%20month/september)
+`310` [October](guides/by%20month/october)
+`311` [November](guides/by%20month/november)
+`312` [December](guides/by%20month/december)
 
 # [Information](information)
 `A` [Emergency Information](information/emergency-information.md)
