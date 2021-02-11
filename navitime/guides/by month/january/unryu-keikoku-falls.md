@@ -8,3 +8,4 @@
 | Post Code   	| 〒321-1415 栃木県日光市日光              	|
 | Website     	| city.nikko.lg.jp                         	|
 | Plus Code   	| RH25+FF                                  	|
+| Tags        	| #tochigi #outdoor-activities #waterfalls 	|
