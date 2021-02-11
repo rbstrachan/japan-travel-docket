@@ -1,7 +1,7 @@
 # Japan Travel Docket
 A docket with travel information, guides and itineraries for Japan.
 
-# Guides
+# [Navitime Japan Travel Guides](https://www.japan.travel/en)
 ## `[1]` [Guides by Interest](navitime/guides/by%20interest)
 `[1.1]` [Activities](navitime/guides/by%20interest/activities)
 `[1.2]` Accomodations
