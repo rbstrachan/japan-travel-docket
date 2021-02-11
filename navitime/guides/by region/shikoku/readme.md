@@ -1,4 +1,4 @@
-# `204` JTNT Guides > by Region > Shikoku
+# `204` by Region > Shikoku
 
 ## `204.1` [Tokushima](tokushima)
 `204.101` [](tokushima/)
