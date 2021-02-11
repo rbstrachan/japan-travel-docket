@@ -1,8 +1,8 @@
 # Japan Travel Docket
 A docket with travel information, guides and itineraries for Japan.
 
-# [Navitime Japan Travel Guides](https://www.japan.travel/en)
-## `[1]` [Guides by Interest](navitime/guides/by%20interest)
+# [JTNT Guides](https://www.japan.travel/en)
+## `[1]` [by Interest](navitime/guides/by%20interest)
 `[1.1]` [Activities](navitime/guides/by%20interest/activities)
 `[1.2]` Accomodations
 `[1.3]` Art & Culture
@@ -15,7 +15,7 @@ A docket with travel information, guides and itineraries for Japan.
 `[1.10]` Travel Tips
 `[1.11]` Travelling
 
-## `[2]` [Guides by Region](navitime/guides/by%20region)
+## `[2]` [by Region](navitime/guides/by%20region)
 `[2.1]` [Hokkaido & Touhoku]()
 `[2.2]` [Kanto]()
 `[2.3]` [Tokai]()
@@ -25,7 +25,7 @@ A docket with travel information, guides and itineraries for Japan.
 `[2.7]` [Kinki]()
 `[2.8]` [Koshinsetsu & Hokuriku]()
 
-## `[3]` [Guides by Month](navitime/guides/by%20month)
+## `[3]` [by Month](navitime/guides/by%20month)
 `[3.1]` [January]()
 `[3.2]` [February]()
 `[3.3]` [March]()
