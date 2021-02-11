@@ -1,4 +1,4 @@
-- Accomodations
+- Accomodation
 	- Resorts
 	- Capsule Hotels
 	- Guest Houses
@@ -177,8 +177,6 @@
 ### Cycles
 - Cycling Guide
 
-## Volunteer Guides ([JT](japan.travel/en/plan/list-of-volunteer-guides/))
-
 ## Emergency Information
 ### Police
 - Emergency Contacts
@@ -193,3 +191,5 @@
 ### Volcanic Eruptions
 ### Hospitals
 ### Health Insurance
+
+## Volunteer Guides ([JT](japan.travel/en/plan/list-of-volunteer-guides/))
