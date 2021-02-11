@@ -3,41 +3,41 @@ A docket with travel information, guides and itineraries for Japan.
 
 # [JTNT Guides](https://www.japantravel.navitime.com/en)
 ## `[1]` [by Interest](navitime/guides/by%20interest)
-`[1.1]` [Activities](navitime/guides/by%20interest/activities)
-`[1.2]` Accomodations
-`[1.3]` Art & Culture
-`[1.4]` Events
-`[1.5]` Food & Drink
-`[1.6]` Leisure
-`[1.7]` Nature
-`[1.8]` Nightlife
-`[1.9]` Shopping
-`[1.10]` Travel Tips
-`[1.11]` Travelling
+`[11]` [Activities](navitime/guides/by%20interest/activities)
+`[12]` Accomodations
+`[13]` Art & Culture
+`[14]` Events
+`[15]` Food & Drink
+`[16]` Leisure
+`[17]` Nature
+`[18]` Nightlife
+`[19]` Shopping
+`[110]` Travel Tips
+`[111]` Travelling
 
 ## `[2]` [by Region](navitime/guides/by%20region)
-`[2.1]` [Hokkaido & Touhoku]()
-`[2.2]` [Kanto]()
-`[2.3]` [Tokai]()
-`[2.4]` [Shikoku]()
-`[2.5]` [Kyushu & Okinawa]()
-`[2.6]` [Chugoku]()
-`[2.7]` [Kinki]()
-`[2.8]` [Koshinsetsu & Hokuriku]()
+`[21]` [Hokkaido & Touhoku]()
+`[22]` [Kanto]()
+`[23]` [Tokai]()
+`[24]` [Shikoku]()
+`[25]` [Kyushu & Okinawa]()
+`[26]` [Chugoku]()
+`[27]` [Kinki]()
+`[28]` [Koshinsetsu & Hokuriku]()
 
 ## `[3]` [by Month](navitime/guides/by%20month)
-`[3.1]` [January](navitime/guides/by%20month/january)
-`[3.2]` [February](navitime/guides/by%20month/february)
-`[3.3]` [March](navitime/guides/by%20month/march)
-`[3.4]` [April](navitime/guides/by%20month/april)
-`[3.5]` [May](navitime/guides/by%20month/may)
-`[3.6]` [June](navitime/guides/by%20month/june)
-`[3.7]` [July](navitime/guides/by%20month/july)
-`[3.8]` [August](navitime/guides/by%20month/august)
-`[3.9]` [September](navitime/guides/by%20month/september)
-`[3.10]` [October](navitime/guides/by%20month/october)
-`[3.11]` [November](navitime/guides/by%20month/november)
-`[3.12]` [December](navitime/guides/by%20month/december)
+`[31]` [January](navitime/guides/by%20month/january)
+`[32]` [February](navitime/guides/by%20month/february)
+`[33]` [March](navitime/guides/by%20month/march)
+`[34]` [April](navitime/guides/by%20month/april)
+`[35]` [May](navitime/guides/by%20month/may)
+`[36]` [June](navitime/guides/by%20month/june)
+`[37]` [July](navitime/guides/by%20month/july)
+`[38]` [August](navitime/guides/by%20month/august)
+`[39]` [September](navitime/guides/by%20month/september)
+`[310]` [October](navitime/guides/by%20month/october)
+`[311]` [November](navitime/guides/by%20month/november)
+`[312]` [December](navitime/guides/by%20month/december)
 
 # [Information](information)
 `[A]` [Emergency Information](information/emergency-information.md)
