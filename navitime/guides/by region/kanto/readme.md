@@ -1,4 +1,4 @@
-# `202` JTNT Guides > by Region > Kanto
+# `202` by Region > Kanto
 
 ## `202.1` [Ibaraki](ibaraki)
 `202.101` [](ibaraki/)
