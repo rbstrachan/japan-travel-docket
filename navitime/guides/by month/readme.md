@@ -1,4 +1,4 @@
-# `3` JTNT Guides > by Month
+# `3` by Month
 
 `301` [January](january)
 `302` [February](february)
