@@ -39,8 +39,8 @@ A docket with travel information, guides and itineraries for Japan.
 `[3.11]` [November]()
 `[3.12]` [December]()
 
-# `[4]` [Information](information)
-`[4.1]` [Emergency Information](information/emergency-information.md)
+# [Information](information)
+`[A]` [Emergency Information](information/emergency-information.md)
 
 ### Sources & Acknowledgements
 Information obtained from [Japan Travel by Navitime](https://japantravel.navitime.com/) and the [Japanese National Tourism Office](https://www.japan.travel/en).
