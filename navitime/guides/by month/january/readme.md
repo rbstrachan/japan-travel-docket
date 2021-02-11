@@ -1,4 +1,8 @@
 # JTNT Guides by Month | January
 
-# Places to Visit
-`[1]` [Unryu Keikoku Falls](unryu-keikoku-falls.md)
+## `[1]` Waterfalls
+`[1.1]` [Unryu Keikoku Falls](unryu-keikoku-falls.md)
+
+## `[2]` Skiing
+`[2.1]` []()
+`[2.1]` []()
