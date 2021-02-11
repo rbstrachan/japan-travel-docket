@@ -27,10 +27,11 @@
 	- Guest Houses
 	- Hotels
 	- Ryokan Inns
-- Art & Culture
+- Art
 	- Art & Museums
-	- Architecture
 	- Music
+	- Architecture
+- Culture
 	- Traditional Culture
 	- Traditional Crafts
 	- Other
