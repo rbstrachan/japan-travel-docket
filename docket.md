@@ -2,12 +2,10 @@
 
 # Areas of Research
 - Tourist Attractions
-- Restaurants
-- Shrines
-- Castles
+	- Cherry Blossom Viewing
+	- Autumn Foliage Forecast
 - Hospitals
-- Hotels
-- Emergency Provisions (Information, Resources, etc.)
+
 
 # Guides
 ## Guides by Interest ([JTNT](japantravel.navitime.com/en/area/jp/interest/all) & [JT](japan.travel/en))
@@ -88,7 +86,7 @@
 	- Historical Landscapes
 	- Other
 
-## [Guides by Month](japan.travel/en/guide/[month])
+## Guides by Month ([JTNT](https://japantravel.navitime.com/en/area/jp/monthly/[month]) & [JT](japan.travel/en/guide/[month]))
 - January
 - February
 - March
@@ -102,13 +100,7 @@
 - November
 - December
 
-### Spring
-- Cherry Blossom Viewing
-
-### Autumn
-- Autumn Foliage Forecast
-
-## Guides by Region [JTNT & JT]
+## Guides by Region ([JTNT](japantravel.navitime.com) & [JT](japan.travel))
 ### Hokkaido / Touhoku
 - Hokkaido
 - Aomori
@@ -172,7 +164,7 @@
 - Yamanashi
 - Nagano
 
-## [Itineraries](japan.travel/en/itineraries) (?)
+## Itineraries ([JT](japan.travel/en/itineraries)) (?)
 
 # Information
 ## General Information for First-Time Visitors [JTNT & JT]
@@ -252,7 +244,7 @@
 ### Cycles
 - Cycling Guide
 
-## [Volunteer Guides](japan.travel/en/plan/list-of-volunteer-guides/)
+## Volunteer Guides ([JT](japan.travel/en/plan/list-of-volunteer-guides/))
 
 ## Emergency Information
 ### Police
