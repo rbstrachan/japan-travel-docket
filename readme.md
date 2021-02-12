@@ -46,5 +46,7 @@ A docket with travel information, guides and itineraries for Japan.
 <!--- suggestion: code information by section number and article letter, for example `1A`,`1B`,`2A`, etc. --->
 `A` [Emergency Information](information/emergency-information.md)
 
+---
+
 ### Sources & Acknowledgements
 Information obtained from [Japan Travel by Navitime](https://japantravel.navitime.com/) and the [Japanese National Tourism Office](https://www.japan.travel/en).
