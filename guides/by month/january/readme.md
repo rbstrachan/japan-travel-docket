@@ -29,7 +29,7 @@
 `301.401` [Outrider](animal%20encounters/outrider.md)
 
 ## `301.5` [Food & Drink](food%20and%20drink)
-`301.501` [Kamakura no Sato](food%20and%20drink/kamakura-no-sato)
+`301.501` [Kamakura no Sato](food%20and%20drink/kamakura-no-sato.md)
 
 ## `301.6` [Lodgings](lodgings)
 `301.601` [Onpoint Madarao](lodgings/onpoint-madarao.md)
