@@ -1,4 +1,4 @@
-# `101` JTNT Guides > by Interest > Activites
+# `101` by Interest > Activites
 
 ## `101.1` [Amusement Parks](amusement%20parks)
 `101.101` [](amusement%20parks/)
