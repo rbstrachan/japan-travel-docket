@@ -1,4 +1,4 @@
-# `301.???` Togakushi Shrine Okusha Zuishinmon
+# `301.701` Togakushi Shrine Okusha Zuishinmon
 
 | Native Name | 戸隠神社奥社随神門（とがくしじんじゃおくやしろずいじんもん） |
 |-------------|--------------------------------------------------------------|
