@@ -1,4 +1,4 @@
-# Niseko Mountain Resort Grand Hirafu
+# `301.109` Niseko Mountain Resort Grand Hirafu
 
 | Native Name | ニセコマウンテンリゾート グラン・ヒラフ          |
 |-------------|--------------------------------------------------|

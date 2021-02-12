@@ -1,4 +1,4 @@
-# Hakuba Happo-one Winter Resort
+# `301.105` Hakuba Happo-one Winter Resort
 
 | Native Name | 白馬八方尾根スキー場（はくばはっぽうおねスキーば） |
 |-------------|----------------------------------------------------|

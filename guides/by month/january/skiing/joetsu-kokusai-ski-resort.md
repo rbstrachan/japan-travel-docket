@@ -1,4 +1,4 @@
-# Joetsu Kokusai Ski Resort
+# `301.106` Joetsu Kokusai Ski Resort
 
 ![](https://svcstrg2.navitime.jp/curation/img/NTJhowto0101-en/ski07.jpg)
 

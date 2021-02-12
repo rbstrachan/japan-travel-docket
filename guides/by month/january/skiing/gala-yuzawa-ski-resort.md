@@ -1,4 +1,4 @@
-# `301.???` Gala Yuzawa Ski Resort
+# `301.103` Gala Yuzawa Ski Resort
 
 | Native Name | GALA湯沢スキー場（GALAゆざわスキーば）        |
 |-------------|-----------------------------------------------|

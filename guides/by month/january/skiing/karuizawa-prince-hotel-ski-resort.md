@@ -1,4 +1,4 @@
-# Karuizawa Prince Hotel Ski Resort
+# `301.107` Karuizawa Prince Hotel Ski Resort
 
 | Native Name | 軽井沢プリンスホテルスキー場（かるいざわプリンスホテルスキーば） |
 |-------------|------------------------------------------------------------------|

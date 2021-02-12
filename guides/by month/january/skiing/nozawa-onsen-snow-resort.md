@@ -1,4 +1,4 @@
-# Nozawa Onsen Snow Resort
+# `301.110` Nozawa Onsen Snow Resort
 
 | Native Name | 野沢温泉スキー場（のざわスキーば）                        |
 |-------------|-----------------------------------------------------------|
