@@ -18,7 +18,7 @@
 `301.201` [Magome](historical%20landmarks/magome.md)
 `301.202` [Narai](historical%20landmarks/narai.md)
 `301.203` [Tsumago](historical%20landmarks/tsumago.md)
-`301.204` [Waki Honjin Okuya](historical%20landmarks/waki-honjin-okuya.ma)
+`301.204` [Waki Honjin Okuya](historical%20landmarks/waki-honjin-okuya.md)
 
 ## `301.3` [Temples](temples)
 `301.301` [Azabusan Zenpukuji](temples/azabusan-zenpukuji.md)
