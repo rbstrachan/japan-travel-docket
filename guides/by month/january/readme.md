@@ -14,11 +14,11 @@
 `301.111` [Pilatus Tateshina Snow Resort](skiing/pilatus-tateshina-snow-resort.md)
 `301.112` [Zao Onsen Ski Resort](skiing/zao-onsen-ski-resort.md)
 
-## `301.2` [Historical Landmarks](historical%20landmarks)
-`301.201` [Magome](historical%20landmarks/magome.md)
-`301.202` [Narai](historical%20landmarks/narai.md)
-`301.203` [Tsumago](historical%20landmarks/tsumago.md)
-`301.204` [Waki Honjin Okuya](historical%20landmarks/waki-honjin-okuya.md)
+## `301.2` [Historical Landmarks](historical-landmarks)
+`301.201` [Magome](historical-landmarks/magome.md)
+`301.202` [Narai](historical-landmarks/narai.md)
+`301.203` [Tsumago](historical-landmarks/tsumago.md)
+`301.204` [Waki Honjin Okuya](historical-landmarks/waki-honjin-okuya.md)
 
 ## `301.3` [Temples](temples)
 `301.301` [Azabusan Zenpukuji](temples/azabusan-zenpukuji.md)
@@ -28,8 +28,8 @@
 ## `301.4` [Animal Encounters](animal%20encounters)
 `301.401` [Outrider](animal%20encounters/outrider.md)
 
-## `301.5` [Food & Drink](food%20and%20drink)
-`301.501` [Kamakura no Sato](food%20and%20drink/kamakura-no-sato.md)
+## `301.5` [Food & Drink](food-and-drink)
+`301.501` [Kamakura no Sato](food-and-drink/kamakura-no-sato.md)
 
 ## `301.6` [Lodgings](lodgings)
 `301.601` [Onpoint Madarao](lodgings/onpoint-madarao.md)
