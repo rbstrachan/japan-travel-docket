@@ -10,8 +10,7 @@
 `107` [Nature](by%20interest/nature)
 `108` [Nightlife](by%20interest/nightlife)
 `109` [Shopping](by%20interest/shopping)
-`110` [Travel Tips](by%20interest/travel%20tips)
-`111` [Travelling](by%20interest/travelling)
+`110` [Travelling](by%20interest/travelling)
 
 ## `2` [by Region](by%20region)
 `201` [Hokkaido & Touhoku](by%20region/hokkaido%20and%20touhoku)

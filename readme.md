@@ -12,8 +12,7 @@ A docket with travel information, guides and itineraries for Japan.
 `107` [Nature](guides/by%20interest/nature)
 `108` [Nightlife](guides/by%20interest/nightlife)
 `109` [Shopping](guides/by%20interest/shopping)
-`110` [Travel Tips](guides/by%20interest/travel%20tips)
-`111` [Travelling](guides/by%20interest/travelling)
+`110` [Travelling](guides/by%20interest/travelling)
 
 ## `2` [by Region](guides/by%20region)
 `201` [Hokkaido & Touhoku](guides/by%20region/hokkaido%20and%20touhoku)
