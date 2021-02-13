@@ -1,1 +1,1 @@
-# `201.1` [Guides](../../../readme.md) > [by Region](../../readme.md) > [Hokkaido & Touhoku](../readme.md) > Hokkaido
+# `201.1` [Guides](../../../) > [by Region](../../) > [Hokkaido & Touhoku](../) > Hokkaido
