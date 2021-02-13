@@ -1,6 +1,6 @@
 # `202` [Guides](../../readme.md) > [by Region](../readme.md) > Kanto
 
-## `202.1` [Iba/readme.mdraki](ibaraki/readme.md)
+## `202.1` [Ibaraki](ibaraki/readme.md)
 `202.101` [](ibaraki/)
 
 ## `202.2` [Tochigi](tochigi/readme.md)
