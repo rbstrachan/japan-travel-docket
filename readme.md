@@ -15,7 +15,7 @@ A docket with travel information, guides and itineraries for Japan.
 `110` Travel Tips
 `111` Travelling
 
-## `2` [by Region](guides/by%20region)
+## `2` [by Region](guides/by%20region/readme.md)
 `201` [Hokkaido & Touhoku](guides/by%20region/hokkaido%20and%20touhoku)
 `202` [Kanto](guides/by%20region/kanto)
 `203` [Tokai](guides/by%20region/tokai)
@@ -39,10 +39,10 @@ A docket with travel information, guides and itineraries for Japan.
 `311` [November](guides/by%20month/november)
 `312` [December](guides/by%20month/december)
 
-# [Itineraries](itineraries)
+# [Itineraries](itineraries/readme.md)
 <!--- suggesstion: code itineraries by three-letter codes, taken from the itinerary name, for example `TKY` for Tokyo, etc. --->
 
-# [Information](information)
+# [Information](information/readme.md)
 <!--- suggestion: code information by section number and article letter, for example `1A`,`1B`,`2A`, etc. --->
 `A` [Emergency Information](information/emergency-information.md)
 
