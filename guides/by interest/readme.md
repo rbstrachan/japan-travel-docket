@@ -1,3 +1,3 @@
-# `1` [Guides](../guides/readme.md) > by Interest
+# `1` [Guides](../readme.md) > by Interest
 
 `101` [Activities](activities)
