@@ -39,4 +39,4 @@
 
 ---
 
-[go back](../readme.md)
+[main page](../readme.md)
