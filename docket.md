@@ -1,3 +1,10 @@
+# Areas to Research Further
+- Tourist Attractions
+	- Cherry Blossom Viewing
+	- Autumn Foliage Forecast
+- Hospitals
+
+# To Be Added
 - Accomodation
 	- Resorts
 	- Capsule Hotels
@@ -56,48 +63,6 @@
 	- Castles
 	- Historical Landscapes
 	- Other
-
-## Guides by Region
-### Shikoku
-- Tokushima
-- Kagawa
-- Ehime
-- Kochi
-
-### Kyuushuu / Okinawa
-- Fukuoka
-- Saga
-- Nagasaki
-- Kumamoto
-- Oita
-- Miyazaki
-- Kagoshima
-- Okinawa
-
-### Chugoku
-- Tottori
-- Shimane
-- Okayama
-- Hiroshima
-- Yamaguchi
-
-### Kinki
-- Shiga
-- Kyoto
-- Osaka
-- Hyogo
-- Nara
-- Wakayama
-
-### Koshinsetsu / Hokuriku
-- Niigata
-- Toyama
-- Ishikawa
-- Fukui
-- Yamanashi
-- Nagano
-
-## Itineraries ([JT](japan.travel/en/itineraries)) (?)
 
 # Information
 ## General Information for First-Time Visitors [JTNT & JT]
