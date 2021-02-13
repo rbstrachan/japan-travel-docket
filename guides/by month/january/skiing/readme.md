@@ -1,4 +1,4 @@
-# `301.1` Skiing
+# `301.1` by Month > January > Skiing
 
 `301.101` [Akakura Onsen Ski Area](skiing/akakura-onsen-ski-area.md)
 `301.102` [Fujimi Panorama Resort](skiing/fujimi-panorama-resort.md)
