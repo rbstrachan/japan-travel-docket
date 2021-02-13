@@ -1,9 +1,9 @@
 # Japan Travel Docket
 A docket with travel information, guides and itineraries for Japan.
 
-# [Guides](guides/readme.md)
-## `1` [by Interest](guides/by%20interest/readme.md)
-`101` [Activities](guides/by%20interest/activities/readme.md)
+# [Guides](guides/readme.*)
+## `1` [by Interest](guides/by%20interest/readme.*)
+`101` [Activities](guides/by%20interest/activities/readme.*)
 `102` Accomodation
 `103` Art & Culture
 `104` Events
