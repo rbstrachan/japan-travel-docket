@@ -1,4 +1,4 @@
-# `301.1` by Month > January > Skiing
+# `301.1` [Guides](../../../readme.md) > [by Month](../../readme.md) > [January](../readme.md) > Skiing
 
 `301.101` [Akakura Onsen Ski Area](akakura-onsen-ski-area.md)
 `301.102` [Fujimi Panorama Resort](fujimi-panorama-resort.md)
