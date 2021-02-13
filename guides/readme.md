@@ -2,16 +2,16 @@
 
 ## `1` [by Interest](by%20interest)
 `101` [Activities](by%20interest/activities)
-`102` Accomodation
-`103` Art & Culture
-`104` Events
-`105` Food & Drink
-`106` Leisure
-`107` Nature
-`108` Nightlife
-`109` Shopping
-`110` Travel Tips
-`111` Travelling
+`102` [Accomodation](by%20interest/accomodation)
+`103` [Art & Culture](by%20interest/art%20and%20culture)
+`104` [Events](by%20interest/events)
+`105` [Food & Drink](food%20and%20drink)
+`106` [Leisure](by%20interest/leisure)
+`107` [Nature](by%20interest/nature)
+`108` [Nightlife](by%20interest/nightlife)
+`109` [Shopping](by%20interest/shopping)
+`110` [Travel Tips](by%20interest/travel%20tips)
+`111` [Travelling](by%20interest/travelling)
 
 ## `2` [by Region](by%20region)
 `201` [Hokkaido & Touhoku](by%20region/hokkaido%20and%20touhoku)

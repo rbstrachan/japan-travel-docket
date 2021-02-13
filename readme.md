@@ -4,16 +4,16 @@ A docket with travel information, guides and itineraries for Japan.
 # [Guides](guides)
 ## `1` [by Interest](guides/by%20interest)
 `101` [Activities](guides/by%20interest/activities)
-`102` Accomodation
-`103` Art & Culture
-`104` Events
-`105` Food & Drink
-`106` Leisure
-`107` Nature
-`108` Nightlife
-`109` Shopping
-`110` Travel Tips
-`111` Travelling
+`102` [Accomodation](guides/by%20interest/accomodation)
+`103` [Art & Culture](guides/by%20interest/art%20and%20culture)
+`104` [Events](guides/by%20interest/events)
+`105` [Food & Drink](food%20and%20drink)
+`106` [Leisure](guides/by%20interest/leisure)
+`107` [Nature](guides/by%20interest/nature)
+`108` [Nightlife](guides/by%20interest/nightlife)
+`109` [Shopping](guides/by%20interest/shopping)
+`110` [Travel Tips](guides/by%20interest/travel%20tips)
+`111` [Travelling](guides/by%20interest/travelling)
 
 ## `2` [by Region](guides/by%20region)
 `201` [Hokkaido & Touhoku](guides/by%20region/hokkaido%20and%20touhoku)
