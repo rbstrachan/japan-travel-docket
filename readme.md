@@ -3,7 +3,7 @@ A docket with travel information, guides and itineraries for Japan.
 
 # [Guides](guides/readme.md)
 ## `1` [by Interest](guides/by%20interest/readme.md)
-`101` [Activities](guides/by%20interest/activities/readme.md)
+`101` [Activities](guides/by%20interest/activities/README.md)
 `102` Accomodation
 `103` Art & Culture
 `104` Events
