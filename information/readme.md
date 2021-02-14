@@ -26,3 +26,7 @@ Below is a list of useful information to assist in common situations encountered
 `V` [Travelling with Children]()
 `W` [Muslim Travellers]()
 `X` [Useful Applications]()
+
+---
+
+[main page](../)
