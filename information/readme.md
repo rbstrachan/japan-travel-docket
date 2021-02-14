@@ -2,7 +2,7 @@
 
 Below is a list of useful information to assist in common situations encountered by first-time visitors to Japan.
 
-`A` [Langauge]()
+`A` [Langauge](language.md)
 `B` [Timezones]()
 `C` [Wi-Fi & Connectivity]()
 `D` [Electricity & Power]()
