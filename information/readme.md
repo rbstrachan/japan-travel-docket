@@ -1,6 +1,6 @@
 # Information
 
-Below is a list of useful information for first-time visitors to Japan.
+Below is a list of useful information to assist in common situations encountered by first-time visitors to Japan.
 
 `A` [Langauge]()
 `B` [Timezones]()
