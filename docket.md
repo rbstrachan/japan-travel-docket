@@ -60,54 +60,6 @@
 
 # JTNT Information for First-Time Visitors
 ## Area Guides
-## Money
-### Currency Exchange
-#### ATMs
-- Japan Post Bank
-- Seven Bank
-- Mizuho Bank
-- Mitsubishi UFJ
-- Mitsui Sumitomo
-
-#### Other Places to Exchange
-- Banks
-- Exchange Corners
-- Discount Ticket Shops
-- Automatic Change Machines
-- Foreign Exchange Delivery Services
-
-### Tipping in Japan
-### Banknotes & Coins
-### Credit Cards
-### Consumption Tax
-#### Exempt Purchases
-
-## Transportation
-### what3words
-### Trains
-- Shinkansen
-- JR Rail
-- Tokyo Metro
-- Keisei Skyliner
-- N'EX TOKYO
-
-### Buses
-### Taxis
-### Renting a Car
-- Rental Guide
-- National & Regional ETC Cards
-- Parking
-
-### Cycling
-### Travel Cards
-#### JR Rail Pass
-#### IC Cards
-Pre-paid IC cards are an essential component of travel in Japan. They are used to quickly and easily transfer between train lines, pay bus and boat fares easily and save money on journies that consist of multiple transport methods. They can also be used at some vending machines, convenience stores and with some taxi companies.
-
-A 500 yen returnable deposit is required at purchase.
-
-### Useful Resources
-[Suica IC Card](https://www.jreast.co.jp/e/pass/suica.html)
 
 ## Airports
 - Tokyo International
@@ -132,33 +84,6 @@ A 500 yen returnable deposit is required at purchase.
 - Travelling With Prescription Medications
 - OTC Medications in Japan
 - Filling a Prescription
-
-## Emergencies & Natural Disasters
-### Emergency Contacts
-#### Police
-#### Ambulance & Fire
-#### Mental Health Lifeline
-
-### Natural Disasters
-#### Earthquakes
-#### Tsunamis
-#### Typhoons
-#### Volcanic Eruptions
-#### Adverse & Extreme Weather
-
-### Useful Resources
-[Japanese Federal Disaster Management Agency's Medical Emergency Guide](https://fdma.go.jp/publication/portal/items/portal001_pamphiet_english.pdf)
-[Information & Services Concerned with Fukushima Daiichi Reactor Meltdown Fallout](https://www.japan.travel/en/news/post-2011-3-11-general-information/)
-
-## Electricity & Power
-- Voltage & Frequency
-- Plug & Socket Types
-- Dual Voltage Appliances
-
-## Luggage Storage & Delivery
-- Coin Lockers
-- Temporary Storage Services
-- Transport Services
 
 ## Other
 - Types of Cashless Payments
@@ -215,10 +140,31 @@ Japan, including all islands, regions and prefectures, follow Japanese Standart 
 - Travel Sim Cards
 
 ## Electricity & Power
-<!-- take from JTNT section -->
+- Voltage & Frequency
+- Plug & Socket Types
+- Dual Voltage Appliances
 
 ## Currency & Money
-<!-- take from JTNT section -->
+### Currency Exchange
+#### ATMs
+- Japan Post Bank
+- Seven Bank
+- Mizuho Bank
+- Mitsubishi UFJ
+- Mitsui Sumitomo
+
+#### Other Places to Exchange
+- Banks
+- Exchange Corners
+- Discount Ticket Shops
+- Automatic Change Machines
+- Foreign Exchange Delivery Services
+
+### Tipping in Japan
+### Banknotes & Coins
+### Credit Cards
+### Consumption Tax
+#### Exempt Purchases
 
 ## Weather
 - Spring (April to June)
@@ -270,16 +216,56 @@ It is illegal to import meat products to Japan, regardless of who they are for o
 [Japanese Ministry of Agriculture, Forestry and Fisheries - Importing Animal Products](https://www.maff.go.jp/aqs/english/product/import.html)
 
 ## Transportation
-<!-- insert JTNT ## Transportation here -->
+### what3words
+### Trains
+- Shinkansen
+- JR Rail
+- Tokyo Metro
+- Keisei Skyliner
+- N'EX TOKYO
+
+### Buses
+### Taxis
+### Renting a Car
+- Rental Guide
+- National & Regional ETC Cards
+- Parking
+
+### Cycling
+### Travel Cards
+#### JR Rail Pass
+#### IC Cards
+Pre-paid IC cards are an essential component of travel in Japan. They are used to quickly and easily transfer between train lines, pay bus and boat fares easily and save money on journies that consist of multiple transport methods. They can also be used at some vending machines, convenience stores and with some taxi companies.
+
+A 500 yen returnable deposit is required at purchase.
+
+### Useful Resources
+[Suica IC Card](https://www.jreast.co.jp/e/pass/suica.html)
 
 ## Drinking Water
 The vast majority of tap water in Japan is drinkable. Hotels and other such services with non-drinkable water are well noted. Bottled water, both still and mineral infused, is commonly available from vending machines and convience stores across Japan.
 
-## Luggage & Storage
-<!-- take from jtnt guide -->
+## Luggage Storage & Delivery
+- Coin Lockers
+- Temporary Storage Services
+- Transport Services
 
 ## Emergencies & Natural Disasters
-<!-- take from jtnt guide -->
+### Emergency Contacts
+#### Police
+#### Ambulance & Fire
+#### Mental Health Lifeline
+
+### Natural Disasters
+#### Earthquakes
+#### Tsunamis
+#### Typhoons
+#### Volcanic Eruptions
+#### Adverse & Extreme Weather
+
+### Useful Resources
+[Japanese Federal Disaster Management Agency's Medical Emergency Guide](https://fdma.go.jp/publication/portal/items/portal001_pamphiet_english.pdf)
+[Information & Services Concerned with Fukushima Daiichi Reactor Meltdown Fallout](https://www.japan.travel/en/news/post-2011-3-11-general-information/)
 
 ## Embassies & Consulates
 Under exceptional circumstances, embassies and consulates can provide support to visitors in the form of passport replacements and evacuations in the event of a natural disaster.
