@@ -43,10 +43,10 @@ A docket with travel information, guides and itineraries for Japan.
 
 # [Information](information)
 <!--- suggestion: code information by section number and article letter, for example `1A`,`1B`,`2A`, etc. --->
-`A` [Before Travelling](before%20travelling)
-`B` [On Arrival](on%20arrival)
-`C` [In Japan](in%20japan)
-`D` [On Departure](on%20departure)
+`A` [Before Travelling](information/before%20travelling)
+`B` [On Arrival](information/on%20arrival)
+`C` [In Japan](information/in%20japan)
+`D` [On Departure](information/on%20departure)
 
 ---
 
