@@ -4,7 +4,7 @@
 You will be required to complete a written customs declaration on arrival to Japan, regarding your belongings - including both your accompanied and unaccompanied luggage. Declaration forms are usually available on the plane, however, they can also be found at the customs office.
 
 ## Exempt Categories
-Some items and baggage types are considered exempt from customs tax. The rules for individual items and quantites differ and can change at any given time. Please see the [Japan Customs Procedures for Passenger Clearance - Exemptions](https://www.customs.go.jp/english/summary/passenger.htm) for detailed and up-to-date information.
+Some items and baggage types are considered exempt from customs restrictions. The rules for individual items and quantites differ and can change at any given time. Please see the [Japan Customs Procedures for Passenger Clearance - Exemptions](https://www.customs.go.jp/english/summary/passenger.htm) for detailed and up-to-date information.
 
 ## Prohibited & Restricted Articles
 Certain controlled substances and dangerous articles, such as weapons and explosives are highly restricted and or prohibited. Please see the [Japan Customs Procedures for Passenger Clearance - Prohibited & Restricted Articles](https://www.customs.go.jp/english/summary/passenger.htm) for detailed and up-to-date information.
