@@ -80,7 +80,7 @@
 
 # Other
 ## In Japan > General Info > Currency & Money > Types of Cashless Payments
-## In Japan > General Info > Japanese Air Conditioning Units
+## In Japan > General Info > Air Conditioning Units
 ## Safety & Security > ? > Lost Passport
 ## In Japan > General Info > Japanese Toilets & Bidets
 ## ? > ? > Staying at Ryokan
