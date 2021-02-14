@@ -1,4 +1,4 @@
-# `M` [Information](../information) > Public Phones
+# `C1-10` [Information](../../) > [In Japan](../) > [General Infomation](../general%20information) > Public Phones
 
 ## Domestic Calls
 Public telephones accept 10 yen and 100 yen coins and pre-paid phone cards. No change is given.

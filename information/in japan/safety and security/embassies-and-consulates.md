@@ -1,4 +1,4 @@
-# `R` [Information](../information) > Embassies & Consulates
+# `C4-1` [Information](../../) > [In Japan](../) > [Safety & Security](../safty%20and%20security) > Embassies & Consulates
 
 Under exceptional circumstances, embassies and consulates can provide support to visitors in the form of passport replacements and evacuations in the event of a natural disaster.
 

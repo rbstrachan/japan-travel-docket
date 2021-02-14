@@ -1,0 +1,16 @@
+# `C1` [Information](../../) > [In Japan](../) > General Information
+
+`C1-1` [Langauge](language.md)
+`C1-2` [Timezones](timezones.md)
+`C1-3` [Wi-Fi & Connectivity](wifi-and-connectivity.md)
+`C1-4` [Electricity & Power](electricity-and-power.md)
+`C1-5` [Currency & Money](currency-and-money.md)
+`C1-6` [Weather & Clothing](weather-and-clothing.md)
+`C1-7` [Drinking Water](drinking-water.md)
+`C1-8` [Business Hours](business-hours.md)
+`C1-9` [Japan Visitors Hotline](japan-visitors-hotline.md)
+`C1-10` [Public Phones](public-phones.md)
+`C1-11` [Travelling with a Disability](travelling-with-a-disability.md)
+`C1-12` [Travelling with Children](travelling-with-children.md)
+`C1-13` [Muslim Travellers](muslim-travellers.md)
+`C1-14` [Useful Applications](useful-applications.md)

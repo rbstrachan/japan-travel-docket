@@ -1,4 +1,4 @@
-# `P` [Information](../information) > Customs & Duty
+# `B1` [Information](../) > [On Arrival](../on%20arrival) > Customs & Duty
 
 ## Customs Declaration
 You will be required to complete a written customs declaration on arrival to Japan, regarding your belongings - including both your accompanied and unaccompanied luggage. Declaration forms are usually available on the plane, however, they can also be found at the customs office.

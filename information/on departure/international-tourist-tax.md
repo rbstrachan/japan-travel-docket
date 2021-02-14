@@ -1,4 +1,4 @@
-# `O` [Information](../information) > International Tourist Tax
+# `D1` [Information](../) > [On Departure](../on%20departure) > International Tourist Tax
 
 Visitors to Japan pay a 1,000 yen tax on departure. This tax is taken automatically by the travel agency or airline, whichever is more appropriate. It is the legal responsibility of the tax collecting organisation to collect the tax and as such it is usually included in your ticket price.
 

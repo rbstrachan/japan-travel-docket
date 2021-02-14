@@ -38,37 +38,17 @@ A docket with travel information, guides and itineraries for Japan.
 `311` [November](guides/by%20month/november)
 `312` [December](guides/by%20month/december)
 
-# [Itineraries](itineraries)
-<!--- suggesstion: code itineraries by three-letter codes, taken from the itinerary name, for example `TKY` for Tokyo, etc. --->
+<!--- # [Itineraries](itineraries)
+ suggesstion: code itineraries by three-letter codes, taken from the itinerary name, for example `TKY` for Tokyo, etc. --->
 
 # [Information](information)
 <!--- suggestion: code information by section number and article letter, for example `1A`,`1B`,`2A`, etc. --->
-`A` [Langauge](information/language.md)
-`B` [Timezones](information/timezones.md)
-`C` [Wi-Fi & Connectivity](information/wifi-and-connectivity.md)
-`D` [Electricity & Power](information/electricity-and-power.md)
-`E` [Currency & Money](information/currency-and-money.md)
-`F` [Weather & Clothing](information/weather-and-clothing.md)
-`G` [Business Hours](information/business-hours.md)
-`H` [Drinking Water](information/drinking-water.md)
-`I` [Luggage Storage & Delivery](information/luggage-storage-and-delivery.md)
-`J` [Postal Service](information/postal-service.md)
-`K` [Transportation](information/transportation.md)
-`L` [Japan Visitors Hotline](information/japan-visitors-hotline.md)
-`M` [Public Phones](information/public-phones.md)
-`N` [Visas](information/visas.md)
-`O` [International Tourist Tax](information/international-tourist-tax.md)
-`P` [Customs & Duty](information/customs-and-duty.md)
-`Q` [Emergencies & Natural Disasters](information/emergencies-and-natural-disasters.md)
-`R` [Embassies & Consulates](information/embassies-and-consulates.md)
-`S` [Observed Holidays & Cultural Events](information/observed-holidays-and-cultural-events.md)
-`T` [Local Laws](information/local-laws.md)
-`U` [Travelling with a Disability](information/travelling-with-a-disability.md)
-`V` [Travelling with Children](information/travelling-with-children.md)
-`W` [Muslim Travellers](information/muslim-travellers.md)
-`X` [Useful Applications](information/useful-applications.md)
+`A` [Before Travelling](information/before%20travelling)
+`B` [On Arrival](information/on%20arrival)
+`C` [In Japan](information/in%20japan)
+`D` [On Departure](information/on%20departure)
 
 ---
 
 ### Sources & Acknowledgements
-Information obtained from [Japan Travel by Navitime](https://japantravel.navitime.com/) and the [Japanese National Tourism Office](https://www.japan.travel/en).
+Information obtained from [Japan Travel by Navitime](https://japantravel.navitime.com/), [Japanese National Tourism Office](https://www.japan.travel/en) and the [United Kingdom Government Foreign Travel Advice](https://www.gov.uk/foreign-travel-advice/japan).

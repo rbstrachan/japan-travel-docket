@@ -1,4 +1,4 @@
-# `J` [Information](../information) > Postal Service
+# `C2-2` [Information](../../) > [In Japan](../) > [Logistics](../logistics) > Postal Services
 
 ## Postcards & Letters
 Postcards and stamps are available from post offices, convenience stores and kiosks at train stations across Japan. Postboxes are located at street crossings, buildings and public facilities.

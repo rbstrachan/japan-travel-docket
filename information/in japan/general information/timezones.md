@@ -1,4 +1,4 @@
-# `B` [Information](../information) > Timezones
+# `C1-2` [Information](../../) > [In Japan](../) > [General Infomation](../general%20information) > Timezones
 
 Japan, including all islands, regions and prefectures, follow Japanese Standart Time (JST) equivalent to UTC+0900. Daylight Savings Time (DST) is not observed.
 
