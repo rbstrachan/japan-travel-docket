@@ -38,8 +38,8 @@ A docket with travel information, guides and itineraries for Japan.
 `311` [November](guides/by%20month/november)
 `312` [December](guides/by%20month/december)
 
-# [Itineraries](itineraries)
-<!--- suggesstion: code itineraries by three-letter codes, taken from the itinerary name, for example `TKY` for Tokyo, etc. --->
+<!--- # [Itineraries](itineraries)
+ suggesstion: code itineraries by three-letter codes, taken from the itinerary name, for example `TKY` for Tokyo, etc. --->
 
 # [Information](information)
 <!--- suggestion: code information by section number and article letter, for example `1A`,`1B`,`2A`, etc. --->
