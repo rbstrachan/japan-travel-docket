@@ -51,4 +51,4 @@ A docket with travel information, guides and itineraries for Japan.
 ---
 
 ### Sources & Acknowledgements
-Information obtained from [Japan Travel by Navitime](https://japantravel.navitime.com/), [Japanese National Tourism Office](https://www.japan.travel/en) and the [United Kingdom Government Foreign Travel Advice](https://www.gov.uk/foreign-travel-advice/japan).
+Information obtained from [Japan Travel by Navitime](https://japantravel.navitime.com/), the [Japanese National Tourism Office](https://www.japan.travel/en), the [United Kingdom Government's Foreign Travel Advice](https://www.gov.uk/foreign-travel-advice/japan) and the [United Kingdom's National Travel and Health Network and Center](https://travelhealthpro.org.uk/country/114/japan).
