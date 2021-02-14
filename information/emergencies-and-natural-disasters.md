@@ -13,5 +13,5 @@
 ### Adverse & Extreme Weather
 
 ## Useful Resources
-- [Japanese Federal Disaster Management Agency's Medical Emergency Guide](https://fdma.go.jp/publication/portal/items/portal001_pamphiet_english.pdf)
+- [Japanese Federal Disaster Management Agency - Medical Emergency Guide](https://fdma.go.jp/publication/portal/items/portal001_pamphiet_english.pdf)
 - [Information & Services Concerned with Fukushima Daiichi Reactor Meltdown Fallout](https://www.japan.travel/en/news/post-2011-3-11-general-information/)
