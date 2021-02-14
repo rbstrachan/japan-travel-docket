@@ -26,7 +26,7 @@
 - Food & Drink
 	- Best Restaurant Guide
 	- Ramen
-	- Soba / Udon Noodles
+	- Soba & Udon Noodles
 	- Sushi
 	- Japanese Cuisine
 	- Other
@@ -42,15 +42,15 @@
 - Nightlife
 	- Izakaya Alleys
 	- Bars
-	- Clubs / Live Houses
+	- Clubs & Live Houses
 	- Karaoke
 	- Night Views & Illuminations
 - Shopping
 	- Shopping Streets
 	- Markets
-	- Souvenir
+	- Souvenirs & Omiyage
 	- Shopping Centres
-- Travelling
+- Destinations
 	- Best Things To Do
 	- Shrines
 	- Temples
@@ -59,35 +59,36 @@
 	- Other
 
 # JTNT Information for First-Time Visitors
-# Area Guides
-# Airports
+# On Arrival > Airports
 - Tokyo International
 - Narita International
 - Haneda International
 - Kansai International
 
-# Customs, Traditions & Manners
+# Untitled > Customs, Traditions & Manners
+## Masks
 ## Tipping in Japan
 ## Visiting Shrines
-## Masks
 ## Onsen & Sento
 
 # Medications
-- Travelling With Prescription Medications
-- OTC Medications in Japan
-- Filling a Prescription
+## Travelling With Prescription Medications
+### Controlled Substances
+### Import Lisences
+## OTC Medications in Japan
+## Filling a Prescription
 
 # Other
-- Types of Cashless Payments
-- Japanese Air Conditioning Units
-- Lost Passport
-- Japanese Toilets
-- Staying at Ryokan
-- Food Delivery
-- Convenience Stores
-- Tourist Informations Centres
+## In Japan > General Info > Currency & Money > Types of Cashless Payments
+## In Japan > General Info > Japanese Air Conditioning Units
+## Safety & Security > ? > Lost Passport
+## In Japan > General Info > Japanese Toilets & Bidets
+## ? > ? > Staying at Ryokan
+## In Japan > General Info > Food Delivery
+## In Japan > General Info > Convenience Stores
+## In Japan > General Info > Tourist Informations Centres
 
-# JT Info
-# Volunteer Guides ([JT](japan.travel/en/plan/list-of-volunteer-guides/))
+# [Volunteer Guides](japan.travel/en/plan/list-of-volunteer-guides/)
 
-[JNTO Brochures](https://www.jnto.go.jp/brochures/eng/index.php?publisher[]=1)
+# Useful Resources
+- [JNTO Brochures](https://www.jnto.go.jp/brochures/eng/index.php?publisher[]=1)
