@@ -34,9 +34,9 @@ Below is a list of useful information to assist in common situations encountered
 ### `C3` [Untitled](in%20japan/untitled)
 `C3-1` [Observed Holidays & Cultural Events](in%20japan/untitled/observed-holidays-and-cultural-events.md)
 
-### `C4` [Safety & Security](in%20japan/safety&20and%20security)
-`C4-1` [Embassies & Consulates](in%20japan/safety&20and%20security/embassies-and-consulates.md)
-`C4-2` [Emergencies & Natural Disasters](in%20japan/safety&20and%20security/emergencies-and-natural-disasters.md)
+### `C4` [Safety & Security](in%20japan/safety%20and%20security)
+`C4-1` [Embassies & Consulates](in%20japan/safety%20and%20security/embassies-and-consulates.md)
+`C4-2` [Emergencies & Natural Disasters](in%20japan/safety%20and%20security/emergencies-and-natural-disasters.md)
 
 ## `D` [On Departure](on%20departure)
 `D1` [International Tourist Tax](on%20departure/international-tourist-tax.md)
