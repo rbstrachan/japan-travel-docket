@@ -1,4 +1,4 @@
-# `Q` [Information](../information) > Emergencies & Natural Disasters
+# `C4-2` [Information](../../../) > [In Japan](../../) > [Safety & Security](../) > Emergencies & Natural Disasters
 
 ## Emergency Contacts
 ### Police

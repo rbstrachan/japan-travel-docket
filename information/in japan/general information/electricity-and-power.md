@@ -1,4 +1,4 @@
-# `D` [Information](../information) > Electricity & Power
+# `C1-4` [Information](../../../) > [In Japan](../../) > [General Infomation](../) > Electricity & Power
 
 ## Voltage & Frequency
 ## Plug & Socket Types

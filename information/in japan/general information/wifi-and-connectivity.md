@@ -1,4 +1,4 @@
-# `C` [Information](../information) > Wi-Fi & Connectivity
+# `C1-3` [Information](../../../) > [In Japan](../../) > [General Infomation](../) > Wi-Fi & Connectivity
 
 ## At the Airport
 ## At the Hotel

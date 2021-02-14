@@ -1,4 +1,4 @@
-# `S` [Information](../information) > Observed Holidays & Cultural Events
+# `C3-1` [Information](../../../) > [In Japan](../../) > [Untitled](../) > Observed Holidays & Cultural Events
 
 <!-- add national holidays -->
 ## Coming of Age Day
