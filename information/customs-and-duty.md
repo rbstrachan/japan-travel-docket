@@ -17,5 +17,5 @@ It is illegal to import meat products to Japan, regardless of who they are for o
 
 ## Useful Resources
 - [Japan Customs](https://www.customs.go.jp/english/index.htm)
-- [Japan Customs Procedures for Passenger Clearance](https://www.customs.go.jp/english/summary/passenger.htm)
+- [Japan Customs - Procedures for Passenger Clearance](https://www.customs.go.jp/english/summary/passenger.htm)
 - [Japanese Ministry of Agriculture, Forestry and Fisheries - Importing Animal Products](https://www.maff.go.jp/aqs/english/product/import.html)
