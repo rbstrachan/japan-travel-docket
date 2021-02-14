@@ -1,4 +1,4 @@
-# `C1-14` [Information](../../../) > [In Japan](../../) > [General Infomation](../) > Useful Applications
+# `C1-14` [Information](../../) > [In Japan](../) > [General Infomation](../general%20information) > Useful Applications
 
 ## Travel Information
 [JNTO Official App]()

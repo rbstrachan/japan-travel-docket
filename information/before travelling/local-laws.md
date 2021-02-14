@@ -1,4 +1,4 @@
-# `A2` [Information](../../) > [Before Travelling](../) > Local Laws
+# `A2` [Information](../) > [Before Travelling](../before%20travelling) > Local Laws
 
 ## Smoking
 Smoking is permitted in designated smoking areas and some restaurants and bars, only. Smoking anywhere outside is strictly prohibited and is punishable by fine.

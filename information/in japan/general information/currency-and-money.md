@@ -1,4 +1,4 @@
-# `C1-5` [Information](../../../) > [In Japan](../../) > [General Infomation](../) > Currency & Money
+# `C1-5` [Information](../../) > [In Japan](../) > [General Infomation](../general%20information) > Currency & Money
 
 ## Currency Exchange
 ### ATMs

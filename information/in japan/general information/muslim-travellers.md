@@ -1,4 +1,4 @@
-# `C1-13` [Information](../../../) > [In Japan](../../) > [General Infomation](../) > Muslim Travellers
+# `C1-13` [Information](../../) > [In Japan](../) > [General Infomation](../general%20information) > Muslim Travellers
 
 ## Hotels
 ## Halal Food
