@@ -60,10 +60,10 @@
 
 # JTNT Information for First-Time Visitors
 # On Arrival > Airports
-- Tokyo International
-- Narita International
-- Haneda International
-- Kansai International
+## Tokyo International
+## Narita International
+## Haneda International
+## Kansai International
 
 # Untitled > Customs, Traditions & Manners
 ## Masks
