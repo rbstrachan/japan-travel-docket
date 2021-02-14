@@ -1,4 +1,4 @@
-# `A1` [Information](../../) > [Before Travelling](../) > Visas
+# `A1` [Information](../) > [Before Travelling](readme.md) > Visas
 
 ## Exempt Countries
 ## Maximum Stay Period
