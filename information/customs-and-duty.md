@@ -4,10 +4,10 @@
 You will be required to complete a written customs declaration on arrival to Japan, regarding your belongings - including both your accompanied and unaccompanied luggage. Declaration forms are usually available on the plane, however, they can also be found at the customs office.
 
 ## Exempt Categories
-Some items and baggage types are considered exempt from customs restrictions. The rules for individual items and quantites differ and can change at any given time. Please see the [Japan Customs Procedures for Passenger Clearance - Exemptions](https://www.customs.go.jp/english/summary/passenger.htm) for detailed and up-to-date information.
+Some items and baggage types are considered exempt from customs restrictions. The rules for individual items and quantites differ and can change at any given time. Please see the [Japan Customs - Procedures for Passenger Clearance - Exemptions](https://www.customs.go.jp/english/summary/passenger.htm) for detailed and up-to-date information.
 
 ## Prohibited & Restricted Articles
-Certain controlled substances and dangerous articles, such as weapons and explosives are highly restricted and or prohibited. Please see the [Japan Customs Procedures for Passenger Clearance - Prohibited & Restricted Articles](https://www.customs.go.jp/english/summary/passenger.htm) for detailed and up-to-date information.
+Certain controlled substances and dangerous articles, such as weapons and explosives are highly restricted and or prohibited. Please see the [Japan Customs - Procedures for Passenger Clearance - Prohibited & Restricted Articles](https://www.customs.go.jp/english/summary/passenger.htm) for detailed and up-to-date information.
 
 ## Regional Customs
 In order to facilitate customs operations across Japan and stop the import and export of prohibited articles at the border, regional customs have been established in Hakodate, Tokyo, Yokohama, Nagoya, Osaka, Kobe, Moji, Nagasaki, and Okinawa, where many international flights or ships arrive and depart. For up-to-date information and official guidance on customs operations, please visit the nearest customs branch.
