@@ -21,7 +21,7 @@ Vernal Equinox Day (春分の日, *shunbun no hi*) was established in 1948 as a 
 ### Shōwa Day
 Established in 2007, Shōwa Day (昭和の日, *shouwa no hi*) is a day of reflection over the Shōwa period. The holiday is celebrated on April 29th, the birthday of Emperor Hirohito - formally known as Emperor Shōwa.
 
-### Constitution Memorial Day (憲法記念部, *kenpou kinenbi*)
+### Constitution Memorial Day (憲法記念日, *kenpou kinenbi*)
 ### Greenery Day (みどりの日, *midori no hi*)
 ### Children's Day (こどもの日, *kodomo no hi*)
 ### Marine Day (海の日, *umi no hi*)
