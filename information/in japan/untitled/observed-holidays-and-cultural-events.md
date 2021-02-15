@@ -10,7 +10,7 @@ Established in 1948, New Year's Day (元日, *ganjitsu*) is celebrated every yea
 Also established in 1948, the Coming of Age Day (成人の日, *seijin no hi*) celebrates, congratulates and encourages those who turn 20 (the age of maturity) during the year. It is held on the second Monday of January. Ceremonies are held all over Japan, in large cities and small towns alike.
 
 ### National Foundation Day
-First established in 1966 and first celebrated in 1967, Japan's National Foundation Day (建国記念の日, *kenkoku kinen no hi*) is a day to reflect on the establishment of the country and to celebrate and encourage Japanese national's love for their country. It is held on February 11th.
+First established in 1966 and first celebrated in 1967, Japan's National Foundation Day (建国記念の日, *kenkoku kinen no hi*) is a day to reflect on the establishment of the country and to celebrate and encourage Japanese nationals' love for their country. It is held on February 11th.
 
 ### The Emperor's Birthday
 As the name implies, this national holiday is celebrated on the Emperor's birthday (天皇誕生日, *tennou tanjoubi*), which is currently February 23rd, the birthday of Emperor Naruhito. Due to the abdication of the throne by Emperor Akihito, this holiday was not celebrated in 2019.
@@ -30,13 +30,14 @@ Established in 2007, Shōwa Day (昭和の日, *shouwa no hi*) is a day of refle
 ### Autumnal Equinox Day (秋分の日, *shuubun no hi*)
 ### Health and Sports Day (体育の日, *taiiku no hi*)
 ### Culture Day (文化の日, *bunka no hi*)
-### Labour Thanksgiving Day (勤労感謝の日,
-*kinrou kansha no hi*)
+### Labour Thanksgiving Day (勤労感謝の日, *kinrou kansha no hi*)
 
 ## Cultural Events
 <!-- add national holidays -->
-## Coming of Age Day
 ## New Year Traditions
-### 大晦日（おおみそか）
-### 除夜の鐘（じょやのかね）
-### お正月　と　初詣（おしょうがつ　と　はつもうで）
+### Oomisoka (大晦日)
+### Joya no Kane (除夜の鐘)
+### Oshougatsu (お正月)
+### Hatsumoude (初詣)
+
+## Coming of Age Day
