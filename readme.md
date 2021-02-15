@@ -1,4 +1,4 @@
-# Japan Travel Docket ![Maintenance](https://img.shields.io/maintenance/yes/2021) ![Lines of code](https://img.shields.io/tokei/lines/github/rbstrachan/japan-travel-docket) ![Version](https://img.shields.io/badge/version-2.3.4-blueviolet)
+# Japan Travel Docket <br> ![Maintenance](https://img.shields.io/maintenance/yes/2021) ![Lines of code](https://img.shields.io/tokei/lines/github/rbstrachan/japan-travel-docket) ![Version](https://img.shields.io/badge/version-2.3.4-blueviolet)
 A docket with travel information, guides and itineraries for Japan.
 
 <!-- ![GitHub repo file count](https://img.shields.io/github/directory-file-count/rbstrachan/japan-travel-docket) ***REMOVED BECAUSE NOT WORKING*** -->
