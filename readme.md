@@ -5,7 +5,10 @@
 
 <!-- ![GitHub repo file count](https://img.shields.io/github/directory-file-count/rbstrachan/japan-travel-docket) ***REMOVED BECAUSE NOT WORKING*** -->
 
-<h1 align="center"><a href="/guides">Guides</a></h1>
+<h1 align="center">
+
+[Guides](guides) 
+</h1>
 
 ## `1` [by Interest](guides/by%20interest)
 `101` [Activities](guides/by%20interest/activities)
