@@ -1,13 +1,13 @@
 <h1 align="center">Japan Travel Docket<br>
 
-![Maintenance](https://img.shields.io/maintenance/yes/2021) ![Lines of code](https://img.shields.io/tokei/lines/github/rbstrachan/japan-travel-docket) ![Version](https://img.shields.io/badge/version-2.4.4-blueviolet)</h1>
-<h3 align="center">A docket with travel information, guides and itineraries for Japan.</h3>
+![Maintenance](https://img.shields.io/maintenance/yes/2021)
+![Lines of code](https://img.shields.io/tokei/lines/github/rbstrachan/japan-travel-docket)
+![Version](https://img.shields.io/badge/version-2.4.4-blueviolet)</h1>
+<h3 align="center">A docket with travel information, guides and <p style="text-decoration: line-through;">itineraries</p> for Japan.</h3>
 
 <!-- ![GitHub repo file count](https://img.shields.io/github/directory-file-count/rbstrachan/japan-travel-docket) ***REMOVED BECAUSE NOT WORKING*** -->
 
-<h1 align="center">
-
-[Guides](guides)</h1>
+<h1 align="center"><a href="/guides">Guides</a></h1>
 
 ## `1` [by Interest](guides/by%20interest)
 `101` [Activities](guides/by%20interest/activities)
