@@ -1,9 +1,10 @@
-# Japan Travel Docket <br> ![Maintenance](https://img.shields.io/maintenance/yes/2021) ![Lines of code](https://img.shields.io/tokei/lines/github/rbstrachan/japan-travel-docket) ![Version](https://img.shields.io/badge/version-2.4.4-blueviolet)
-A docket with travel information, guides and itineraries for Japan.
+<h1 align="center">Japan Travel Docket <br> ![Maintenance](https://img.shields.io/maintenance/yes/2021) ![Lines of code](https://img.shields.io/tokei/lines/github/rbstrachan/japan-travel-docket) ![Version](https://img.shields.io/badge/version-2.4.4-blueviolet)</h1>
+<h3 align="center">A docket with travel information, guides and itineraries for Japan.</h3>
 
 <!-- ![GitHub repo file count](https://img.shields.io/github/directory-file-count/rbstrachan/japan-travel-docket) ***REMOVED BECAUSE NOT WORKING*** -->
 
-# [Guides](guides)
+<h1 align="center">[Guides](guides)</h1>
+
 ## `1` [by Interest](guides/by%20interest)
 `101` [Activities](guides/by%20interest/activities)
 `102` [Accomodation](guides/by%20interest/accomodation)
@@ -43,8 +44,9 @@ A docket with travel information, guides and itineraries for Japan.
 <!--- # [Itineraries](itineraries)
  suggesstion: code itineraries by three-letter codes, taken from the itinerary name, for example `TKY` for Tokyo, etc. --->
 
-# [Information](information)
+<h1 align="center"> [Information](information) </h1>
 <!--- suggestion: code information by section number and article letter, for example `1A`,`1B`,`2A`, etc. --->
+
 `A` [Before Travelling](information/before%20travelling)
 `B` [On Arrival](information/on%20arrival)
 `C` [In Japan](information/in%20japan)
