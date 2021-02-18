@@ -7,7 +7,7 @@
 
 <!-- ![GitHub repo file count](https://img.shields.io/github/directory-file-count/rbstrachan/japan-travel-docket) ***REMOVED BECAUSE NOT WORKING*** -->
 
-<h1 align="center"><a href="/guides">Guides</a></h1>
+<h1 align="center"><a href="japan-travel-docket/guides">Guides</a></h1>
 
 ## `1` [by Interest](guides/by%20interest)
 `101` [Activities](guides/by%20interest/activities)
@@ -48,7 +48,7 @@
 <!--- # [Itineraries](itineraries)
  suggesstion: code itineraries by three-letter codes, taken from the itinerary name, for example `TKY` for Tokyo, etc. --->
 
-<h1 align="center"><a href="/information">Information</a></h1>
+<h1 align="center"><a href="japan-travel-docket/information">Information</a></h1>
 <!--- suggestion: code information by section number and article letter, for example `1A`,`1B`,`2A`, etc. --->
 
 `A` [Before Travelling](information/before%20travelling)
