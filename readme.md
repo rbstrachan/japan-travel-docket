@@ -7,8 +7,7 @@
 
 <h1 align="center">
 
-[Guides](guides) 
-</h1>
+[Guides](guides)</h1>
 
 ## `1` [by Interest](guides/by%20interest)
 `101` [Activities](guides/by%20interest/activities)
