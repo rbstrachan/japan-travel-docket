@@ -6,7 +6,6 @@
 <h3 align="center">A docket with travel information, guides and itineraries for Japan.</h3>
 
 <!-- ![GitHub repo file count](https://img.shields.io/github/directory-file-count/rbstrachan/japan-travel-docket) ***REMOVED BECAUSE NOT WORKING*** -->
-
 ---
 
 <h1 align="center"><a href="/japan-travel-docket/guides/">Guides</a></h1>
@@ -49,7 +48,6 @@
 
 <!--- # [Itineraries](itineraries)
  suggesstion: code itineraries by three-letter codes, taken from the itinerary name, for example `TKY` for Tokyo, etc. --->
-
 ---
 
 <h1 align="center"><a href="/japan-travel-docket/information/">Information</a></h1>
