@@ -33,11 +33,10 @@ Established in 2007, Shōwa Day (昭和の日, *shouwa no hi*) is a day of refle
 ### Labour Thanksgiving Day (勤労感謝の日, *kinrou kansha no hi*)
 
 ## Cultural Events
-<!-- add national holidays -->
-## New Year Traditions
-### Oomisoka (大晦日)
-### Joya no Kane (除夜の鐘)
-### Oshougatsu (お正月)
-### Hatsumoude (初詣)
+### New Year Traditions
+#### Oomisoka (大晦日)
+#### Joya no Kane (除夜の鐘)
+#### Oshougatsu (お正月)
+#### Hatsumoude (初詣)
 
 ## Coming of Age Day
